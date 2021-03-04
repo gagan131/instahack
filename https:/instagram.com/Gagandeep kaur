@@ -1,0 +1,6 @@
+juvi_shergill_?igshid=1opttmtiio1ly
+https://github.com/thelinuxchoice/instainsane.git
+kali > cd <path to directory>
+kali > chmod +x install.sh
+kali > ./install.sh
+
